@@ -27,10 +27,10 @@ Para executar a aplicação é necessário instalar algumas ferramentas tais com
 
 ```bash
 # Baixe o repositório.
-$ git clone 
+$ git clone https://github.com/Ricnaga/NLW4React.git
 
 # Acesse a pasta do projeto.
-$ cd 
+$ cd NLW4React
 
 # Agora que baixou e acessou o repositório, vamos começar a instalação das dependências.
 $ yarn ( caso não utilize o yarn execute apenas npm -i)
@@ -64,4 +64,4 @@ Gostou? tem alguma sugestão de melhoria? por favor, entre em contato e ja aprov
 
 ## <div align="center">Licença</div>
 
-<div align="center"> <img src=""/> </div>
+<div align="center"> <img src="https://img.shields.io/github/license/Ricnaga/NLW4React?color=blue&style=for-the-badge"/> </div>
