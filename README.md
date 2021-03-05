@@ -52,7 +52,7 @@ $ yarn dev (caso não utilize o yarn: npm run dev)
 - [Git Bash](https://gitforwindows.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [React JS](https://pt-br.reactjs.org/)
-- [Next JS](hthttps://nextjs.org/)
+- [Next JS](https://nextjs.org/)
 
 
 ## <div align="center">Autor</div>
