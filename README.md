@@ -1,4 +1,4 @@
-#moveit next
+<img src="cover.jpg" alt="Capa"/>
 
 # <div align="center"> NLW4 - Trilha React JS | Next JS </div>
 
@@ -6,14 +6,13 @@
 
 ### <div align="center"> Workshop realizado pela equipe Rocketseat abordando conceitos básicos sobre: </div>
 
-#### 1. ReactJS
-#### 2. NextJS
-#### 3. Páginas e seus Estilos
-#### 4. API de contexto
-#### 5. Renderição do lado do servidor
-#### 6. Manipulação de cookies
-#### 7. Deploy da aplicação no Netlify | Vercel
-
+- HTML | CSS
+- Javascript | Typescript: cookies
+- ReactJS: Hooks e components
+- NextJS: Hooks e estilização
+- API de contexto
+- Server side rendering
+- Deploy da aplicação no Netlify | Vercel
 
 ## <div align="center"> Sumário </div>
 <!--ts-->
